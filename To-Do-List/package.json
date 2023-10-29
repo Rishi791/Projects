@@ -1,0 +1,30 @@
+{
+  "name": "todo_node_app",
+  "version": "1.0.0",
+  "description": "to-do list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrupaH/todo-app.git"
+  },
+  "keywords": [
+    "todo",
+    "node",
+    "tutorial"
+  ],
+  "author": "Krupa Hebbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrupaH/todo-app/issues"
+  },
+  "homepage": "https://github.com/KrupaH/todo-app#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^2.7.4",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.20"
+  }
+}
